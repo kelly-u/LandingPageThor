@@ -1,0 +1,32 @@
+.div-secao-principal{
+    background-image: url('../../assets/img/secao-principal/fundo.png');
+    background-size: cover;
+    background-position: 100%;
+    background-color: #e5e5e5;
+    min-height: 600px;
+}
+
+.img-gorr{
+    width: 100%;
+    max-width: 530px;
+    min-width: 470;
+    height: 600px;
+}
+
+.img-jane{
+    width: 100%;
+    height: 600px;
+    max-width: 580px;
+    min-width: 5000;
+}
+
+.div-meio{
+    width: 100%;
+    height: 600px;
+}
+
+.img-trovao{
+    width: 100%;
+    height: 600px;
+    mix-blend-mode: screen;
+}
