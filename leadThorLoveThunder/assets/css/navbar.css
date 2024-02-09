@@ -1,0 +1,17 @@
+.navbar-personalizado{
+    background-image: linear-gradient(to bottom, black 10%, transparent);
+    font-size: 110%;
+    min-height: 110px;
+}
+
+/* Alterar apenas os <a> que estão dentro do navbar-personalizado */
+.navbar-personalizado a{
+    margin-right: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+/* Alterar apenas os <img> que estão dentro do navbar-personalizado */
+.navbar-personalizado img{
+    margin-left: 20px;
+}
